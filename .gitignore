@@ -1,0 +1,6 @@
+#Ignore IDEA files
+.DS_Store
+.idea
+*.iml
+# Project exclude paths
+/target/
